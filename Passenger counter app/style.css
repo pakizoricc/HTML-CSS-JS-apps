@@ -1,0 +1,51 @@
+body {
+    background-image: url("station.jpg");
+    background-size: cover; /* background image covers the whole container */
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+#increment-btn {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    margin-bottom: 5px;
+    border-radius: 5px; 
+    background-color: darkred;
+}
+
+#save-btn {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+    margin-bottom: 5px;
+    border-radius: 5px; 
+    background-color: blue;
+}
+
+#save-el{
+    color: black;
+}
